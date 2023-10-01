@@ -6,20 +6,21 @@
 
 body {
   font: 18px/36px "BebasNue", "Arial Narrow", arial, sans-serif;
-  background-color: lightgray;
+  background-color: #d8d9da;
 }
 
 h1 {
   font-size: 80px;
   margin: 50px 0;
   text-align: center;
+  color: #272829;
   text-shadow: 1px 2px 1px white;
 }
 
 main {
   width: 725px;
   margin: auto;
-  background-color: whitesmoke;
+  background-color: #fff6e0;
   padding: 25px;
   box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
@@ -29,7 +30,7 @@ main {
   width: 120px;
   height: 120px;
   /* overflow: hidden; */
-  border: 5px solid gray;
+  border: 5px solid #61677a;
   float: left;
   margin-right: 15px;
   position: relative;
